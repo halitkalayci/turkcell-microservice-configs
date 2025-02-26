@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: "jdbc:postgresql://pg-service:5435/order-service"
+    username: postgres
+    password: test
